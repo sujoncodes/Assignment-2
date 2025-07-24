@@ -34,10 +34,7 @@
 #flower-lover h1{
      font-family:"Noto Serif", serif ;
 } 
-#latest-deals{
-    font-family:"Noto Serif", serif ;
-}
-#latest-deals span{
+#latest-deals h1,span{
     font-family:"Noto Serif", serif ;
 }
 #shop-section>div h2{
@@ -46,3 +43,8 @@
 #join-section{
     font-family: "Noto Serif", serif;
 }
+/* #footer-div{
+    display: grid;
+    grid-template-columns: 359px 85px 128px 216px;
+    column-gap: 110px;
+} */
